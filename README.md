@@ -1,7 +1,7 @@
 # CC-Pirate-Brig-Management
     Brig management is a C++ program that allows the user to add pirates of different sizes to the system.
     to have the system mix and match pirates and place them in available cells. 
-    memory allocation and deallocatin is the main purpose of this practice program.  
+    Familiarizing with C++, memory allocation and deallocatin were the main purpose of this practice program.  
       
 ## Version
     1.5.0
